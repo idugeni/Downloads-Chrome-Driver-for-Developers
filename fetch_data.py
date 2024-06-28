@@ -17,7 +17,7 @@ dev_section = soup.find('section', class_='status-ok', id='dev')
 canary_section = soup.find('section', class_='status-ok', id='canary')
 
 # Extracting necessary data
-title = soup.find('h1').text.strip()
+title = "Chrome for Testing"
 image_url = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Chrome_icon_and_wordmark_%282011%29.svg/648px-Google_Chrome_icon_and_wordmark_%282011%29.svg.png"
 description = "This page lists the latest available cross-platform Chrome for Testing versions and assets per Chrome release channel."
 update_time = datetime.datetime.now(datetime.timezone.utc).isoformat()

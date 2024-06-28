@@ -1,8 +1,8 @@
-# [Chrome for Testing availability](https://googlechromelabs.github.io/chrome-for-testing/) availability
+# [Chrome for Testing](https://googlechromelabs.github.io/chrome-for-testing/) availability
 
 <div align="center">
 
-![Chrome for Testing availability availability](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Chrome_icon_and_wordmark_%282011%29.svg/648px-Google_Chrome_icon_and_wordmark_%282011%29.svg.png)
+![Chrome for Testing availability](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Chrome_icon_and_wordmark_%282011%29.svg/648px-Google_Chrome_icon_and_wordmark_%282011%29.svg.png)
 
 </div>
 
@@ -12,7 +12,7 @@ Consult [our JSON API endpoints](https://github.com/GoogleChromeLabs/chrome-for-
 
 <div align="center">
 
-*Last updated @ 2024-06-28T01:05:46.077678+00:00*
+*Last updated @ 2024-06-28T01:10:55.072812+00:00*
 
 </div>
 
